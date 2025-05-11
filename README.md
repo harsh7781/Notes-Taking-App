@@ -1,5 +1,5 @@
 # Notes-Taking-App
-Take Note is a Mini Spring Boot MVC Web Application. 
+Notes-Taking-App is a Simple Mini Spring Boot MVC Web Application. 
 
 # Technology used in this Project : 
 <h3>BackEnd:</h3>
